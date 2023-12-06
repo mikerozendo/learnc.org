@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//https://www.learn-c.org/en/Variables_and_Types
+//Link to exercise: https://www.learn-c.org/en/Variables_and_Types
 
 int main() {
   int a = 3;
